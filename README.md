@@ -1,7 +1,7 @@
 # Type Clipboard Workflow for Alfred App
 
 Simple workflow to _write_ the clipboard content in those situations where ```⌘ → V``` doesn't work, typically in non
-Cocoa application dialogs. It had happened to me in older Flash versions, Intellij IDEA and a few others. You have to
+Cocoa application dialogs. It has happened to me in older Flash versions, Intellij IDEA and a few others. You have to
 go and paste with right clicking the mouse or pad... Atrocious!!
 
 ## Setup
