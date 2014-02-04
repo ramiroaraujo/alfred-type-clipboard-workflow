@@ -1,7 +1,7 @@
 ## workflow build config
 
 # id and name for the workflow (bundle id = domain.id)
-id: alfred-type-clipboard
+id: alfred-type-clipboard-workflow
 
 # base domain
 domain: com.tumblr.ramiroaraujo

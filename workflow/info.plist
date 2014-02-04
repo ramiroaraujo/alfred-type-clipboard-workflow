@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.tumblr.ramiroaraujo.alfred-type-clipboard</string>
+	<string>com.tumblr.ramiroaraujo.alfred-type-clipboard-workflow</string>
 	<key>connections</key>
 	<dict>
 		<key>59A07A7B-16B1-4EC7-AACA-ACF917070EF1</key>
@@ -32,7 +32,7 @@
 	<key>createdby</key>
 	<string>Ramiro Araujo</string>
 	<key>description</key>
-	<string>A simple automated shorcut to type the clipboard contents there where you can't use ⌘→V.</string>
+	<string>A simple automated shorcut to type the clipboard contents there where you can&#39;t use ⌘→V.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -110,17 +110,17 @@
 		<key>5646F6CF-757F-4064-9547-992F8DED363F</key>
 		<dict>
 			<key>ypos</key>
-			<real>10</real>
+			<real>10.0</real>
 		</dict>
 		<key>59A07A7B-16B1-4EC7-AACA-ACF917070EF1</key>
 		<dict>
 			<key>ypos</key>
-			<real>10</real>
+			<real>10.0</real>
 		</dict>
 		<key>77D17C33-F947-4F32-AB15-79286271B153</key>
 		<dict>
 			<key>ypos</key>
-			<real>140</real>
+			<real>140.0</real>
 		</dict>
 	</dict>
 	<key>webaddress</key>
