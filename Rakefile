@@ -132,6 +132,7 @@ task :export => [:config] do
     Dir.foreach('.') do |dir|
       FileUtils.rmtree dir if %w(build_info cache doc specifications).include? dir
     end
+    break if !Dir.exist? 'gems'
     Dir.chdir('gems') do
       Dir.foreach('.') do |dir|
         next if dir == '.' || dir == '..'
